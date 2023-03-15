@@ -1,16 +1,19 @@
-### Hi there 👋
+<div align="center">
+  
+### Contact 
+##### ✉️  : ansmeer008@gmail.com
+##### 📕 : https://velog.io/@ansmeer008
 
-<!--
-**ansmeer008/ansmeer008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+________________________________
 
-Here are some ideas to get you started:
+<div>
+<img src="https://img.shields.io/badge/HTML-FF6464?style=flat&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-288CDE?style=flat&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-FFEB5A?style=flat&logo=JavaScript&logoColor=white"/> 
+<img src="https://img.shields.io/badge/react-blue?style=flat&logo=React&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/node.js-BCEE68?style=flat&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/git-FF7F50?style=flat&logo=Git&logoColor=white"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
