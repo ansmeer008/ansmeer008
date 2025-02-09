@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="40%" height="40%" src="https://user-images.githubusercontent.com/111051555/228143270-7c75618f-813f-47f5-a4e7-a8e7de3d9d16.jpeg"/>
+<img width="40%" height="40%" src="https://github.com/user-attachments/assets/68b25c0e-5306-432c-b4b8-2727c1230b3a"/>
+
 
 ### Contact 
 ##### ✉️  : ansmeer008@gmail.com
