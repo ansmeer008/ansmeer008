@@ -17,7 +17,6 @@ ________________________________
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=green"/>
 <img src="https://img.shields.io/badge/react-blue?style=flat&logo=React&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/node.js-BCEE68?style=flat&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/git-FF7F50?style=flat&logo=Git&logoColor=white"/>
 </div>
 
